@@ -8,7 +8,7 @@ import './new.css';
 const New = () => {
   return (
     <>
-    <h4>UI/UX > refer and earn</h4>
+    {/* <h4>UI/UX > refer and earn</h4>
    
     <div class="other-courses-card first">
         <div className='flex'>
@@ -31,9 +31,30 @@ const New = () => {
 <img src={purchase} width={100} height={100} className='space-between'/>
 </div>
 
-</div>
+</div> */}
 
+ <Navbar/>
+ <h5 className='ui-first'>UI/UX > Refer & Earn</h5>
+ <div className='boxx'>
+  <div className='three'>
+
+  <h6 className='earn'>Referral earnings</h6>
+  <h6 className='total'>total earnings</h6>
+  <h6 className='total'>Wallet balance</h6>
+  </div>
+  
+  
+  <button class="how" fdprocessedid="5klqr4">withdrow balance</button>
  
+ </div>
+ <h3 className='works'>How does it works?</h3>
+ 
+ <h6 className='ref1'>Your Referral code</h6>
+ <div className='boxxx'>
+<h6 className='code11'>EDCH54</h6>
+
+
+ </div>
     </>
   )
 }

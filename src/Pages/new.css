@@ -82,3 +82,149 @@
     justify-content: space-around;
  
 }
+
+
+
+.ui-first{
+    position: absolute;
+width: 1366px;
+height: 76px;
+margin-left: 0px;
+margin-top: 73px;
+
+background: #FFFFFF;
+}
+.boxx{
+    position: absolute;
+width: 486px;
+height: 188px;
+left: 187px;
+top: 179px;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 100px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+}
+.earn{
+    width: 111px;
+height: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+margin-left: 10px;
+color: #800080;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.total{
+    
+width: 100px;
+height: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #800080;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.three{
+    display: flex;
+}
+.price1{
+    /* ₹ 2,500 */
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.ref1{
+   
+
+position: absolute;
+width: 228px;
+height: 36px;
+margin-left: 766px;
+margin-top: 179px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+
+
+
+color: #800080;
+}
+.boxxx{
+    box-sizing: border-box;
+
+position: absolute;
+width: 358px;
+height: 60px;
+margin-left: 766px;
+margin-top: 224px;
+
+border-radius: 10px;
+}
+.code11{
+    /* EDCH54 */
+
+
+position: absolute;
+width: 230px;
+height: 30px;
+margin-left: 50px;
+margin-top: 15px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+letter-spacing: 1.5em;
+
+color: #800080;
+
+}
+.code23{
+    position: absolute;
+width: 224px;
+height: 36px;
+
+margin-top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+color: #800080;
+
+}

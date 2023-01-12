@@ -271,27 +271,7 @@ border-radius: 20px;
 }
 .course3{
     
-/* Illustrator */
 
-
-width: 66px;
-height: 21px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 21px;
-/* identical to box height */
-
-
-color: #FFFFFF;
-
-
-
-flex: none;
-order: 0;
-flex-grow: 0;
 }
 .course4div{
 box-sizing: border-box;
@@ -420,7 +400,7 @@ margin-top: 280px;
 border: 1.5px solid #EEAEAE;
 border-radius: 20px;
 }
-/* .amount{
+.amount{
    
 
 position: absolute;
@@ -439,4 +419,4 @@ display: flex;
 
 color: #ffffff;
 }
- */
+
