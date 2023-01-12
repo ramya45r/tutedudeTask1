@@ -8,7 +8,7 @@ import './new.css';
 const New = () => {
   return (
     <>
-    <h4>UI/UX > refer and earnhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h4>
+    <h4>UI/UX > refer and earn</h4>
    
     <div class="other-courses-card first">
         <div className='flex'>
